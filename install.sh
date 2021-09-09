@@ -14,3 +14,4 @@ then
 else
     echo "Could not find Desktop path!"
 fi
+exit 0
